@@ -1353,3 +1353,4 @@ function buatConfetti() {
     // Gelombang 3: Hujan confetti lanjutan
     setTimeout(() => burstWave(40, 0), 2000);
 }
+
